@@ -1,1 +1,1 @@
-This is a git hub file
+This is a conflict hub is not file
